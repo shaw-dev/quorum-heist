@@ -133,6 +133,3 @@ Built and tested on macOS 27.2 with Xcode 27 in Swift 6 language mode. <!-- TODO
 
 ---
 
-## What I learned
-
-<!-- TODO: write 3–4 bullets in your own words. For example: the moment the unsafe bank printed $10,018, why R + W > N works, why a bank should choose consistency over availability during a partition. -->
